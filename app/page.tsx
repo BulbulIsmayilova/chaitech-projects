@@ -3,9 +3,9 @@ import Header from "@/components/Header/Header";
 import StudentsCardDesktop from "@/components/StudentsCardDesktop/StudentsCardDesktop";
 export default function Home() {
   return (
-    <div>
+    <div className="min-h-screen flex flex-col">
       <Header />
-      <div className="my-15">
+      <div className="my-10">
         <StudentsCardDesktop />
       </div>
       <Footer/>
