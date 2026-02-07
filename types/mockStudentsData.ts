@@ -6,7 +6,7 @@ export const mockStudentsData: Student[] = [
   {
     id: 1,
     name: "Push30",
-    major: "Business Management",
+    major: "Mobile-App",
     location: "Polşa, Krakov",
     testimonial:
       "Upass mənə təhsil yolumda böyük kömək etdi. Yalnız ixtisas seçimində deyil, həm də ev tapmaqda belə kömək göstərdilər. Bu cür diqqlətli yanaşmalarına görə hər kəsə Upass-ı seçməyi tövsiyə edirəm.",
@@ -16,7 +16,7 @@ export const mockStudentsData: Student[] = [
   {
     id: 2,
     name: "Sis-houses",
-    major: "Computer Science",
+    major: "Web-Site",
     location: "Almaniya, Berlin",
     testimonial:
       "Upass komandası hər addımda yanımda oldu. Universitet seçimindən viza prosessinə qədər hər şeyi ətraflı izah etdilər.",
@@ -26,7 +26,7 @@ export const mockStudentsData: Student[] = [
   {
     id: 3,
     name: "SATGroup",
-    major: "Mechanical Engineering",
+    major: "Web-Site",
     location: "Çexiya, Praqa",
     testimonial:
       "Təhsil konsultasiyası üçün ən doğru seçim. Peşəkar yanaşma və keyfiyyətli xidmət.",
@@ -36,7 +36,7 @@ export const mockStudentsData: Student[] = [
   {
     id: 4,
     name: "Play10",
-    major: "International Relations",
+    major: "Mobile-App",
     location: "İtaliya, Roma",
     testimonial:
       "Xaricdə təhsil arzum Upass sayəsində gerçəkləşdi. Hər kəsə tövsiyə edirəm!",
@@ -46,7 +46,7 @@ export const mockStudentsData: Student[] = [
   {
     id: 5,
     name: "Payonix",
-    major: "Economics",
+    major: "Mobile-App",
     location: "Fransa, Paris",
     testimonial:
       "Professional komanda, sürətli xidmət və əla nəticə. Təşəkkürlər Upass!",
@@ -56,7 +56,7 @@ export const mockStudentsData: Student[] = [
   {
     id: 6,
     name: "Satışın Ritmi",
-    major: "Architecture",
+    major: "Web-Site",
     location: "İspaniya, Barselona",
     testimonial:
       "Universitet qəbulu prosesi çox asan keçdi. Upass komandası hər şeyi mükəmməl təşkil etdi.",

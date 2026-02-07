@@ -154,7 +154,7 @@ const StudentsCardDesktop = () => {
 
       <div>
         <h1 className="app-container items-center text-[32px] text-(--neutral-primary) font-bold">
-          Our Case Studies
+          Portfolio
         </h1>
       </div>
       
@@ -179,28 +179,28 @@ const StudentsCardDesktop = () => {
                 <h2 className="text-[32px] text-(--neutral-primary) font-bold">
                   {selectedStudent.name}
                 </h2>
-                <p className="text-gradient font-medium text-lg">
+                {/* <p className="text-gradient font-medium text-lg">
                   {selectedStudent.major}
-                </p>
+                </p> */}
               </div>
-
+{/* 
               <div className="flex items-center gap-2 text-(--light-gray)">
                 <MapPin />
                 <span>{selectedStudent.location}</span>
-              </div>
+              </div> */}
 
-              <p className="text-(--neutral-primary) leading-relaxed">
+              {/* <p className="text-(--neutral-primary) leading-relaxed">
                 {selectedStudent.testimonial}
-              </p>
+              </p> */}
 
-              <div className="pt-1">
+              {/* <div className="pt-1">
                 <div className="flex items-center gap-2 text-(--light-gray)">
                   <Mail />
                   <span className="text-sm break-all">
                     {selectedStudent.email}
                   </span>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
 
